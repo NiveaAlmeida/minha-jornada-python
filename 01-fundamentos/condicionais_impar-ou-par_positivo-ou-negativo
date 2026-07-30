@@ -1,0 +1,13 @@
+n = int(input("Digite um número: "))
+
+#Uso de operadores lógicos para determinar o tipo de número
+if n % 2 == 0 and n > 0:
+  print(f"O número é {n} é par e positivo")
+elif n % 2 == 0 and n < 0:
+  print(f"O número é {n} é par e negativo")
+elif n % 2 != 0 and n > 0:
+  print(f"O número é {n} é impar e positivo")
+elif n % 2 != 0 and n < 0:
+  print(f"O número é {n} é impar e negativo")
+else:
+  print(f"o número é 0")
