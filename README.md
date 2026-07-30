@@ -24,9 +24,9 @@ Seja bem-vindo(a) ao meu repositório de estudos de **Python**! Este espaço foi
 ## 📂 Estrutura do Repositório
 
 ```text
-├── 01-fundamentos/          # Sintaxe básica, variáveis, tipos de dados
-├── 02-estrutura-dados/      # Listas, tuplas, dicionários e conjuntos
-├── 03-orientacao-objetos/   # Classes, herança, polimorfismo
-├── 04-modulos-e-pacotes/    # Manipulação de arquivos e bibliotecas padrão
-└── 05-projetos/             # Projetos práticos e desafios concluídos
+├── 01-fundamentos/                     # Sintaxe básica, variáveis, tipos de dados
+├── 02-estrutura-dados/                 # Listas, tuplas, dicionários e conjuntos
+├── 03-programacao-orientada-objetos/   # Classes, herança, polimorfismo
+├── 04-modulos-e-pacotes/               # Manipulação de arquivos e bibliotecas padrão
+└── 05-projetos/                        # Projetos práticos e desafios concluídos
 ```
