@@ -1,0 +1,5 @@
+n = float(input("Digite um número: "))
+if n % 2 == 0: #Se o número for divisível por dois
+  print(f"O número é {n} é par")
+else:
+  print(f"o número {n} é impar")
